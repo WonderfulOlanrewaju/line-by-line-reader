@@ -1,5 +1,7 @@
 # Line Reader
 
+A promise based javascript package for reading contents of a file in a line by line fashion
+
 ```Js
 const {lineReader} = require ('line-by-line-reader');
 

@@ -1,7 +1,7 @@
 {
   "name": "line-by-line-reader",
   "version": "1.0.0",
-  "description": "node package for reading contents of a file and access content of each line as a string. Comes with some other amazing methods to work with your line contents",
+  "description": "A promise based javascript package for reading contents of a file in a line by line fashion",
   "main": "index.js",
   "author": "Olanrewaju A. Olaboye",
   "license": "MIT",
