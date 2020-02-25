@@ -1,0 +1,9 @@
+600813        8662     LOAN STRUCTURING-GT MORTGAGE                         600,036.80                       0.00                 600,036.80
+ 600815        8664     LOAN STRUCTURING-MAX ADVANCE                       2,514,916.60                       0.00               2,514,916.60
+ 600818        8667     LOAN STRUCTURING-TERM LOAN                         8,436,000.00                       0.00               8,436,000.00
+ 600819        8642     SERVICE FEES- IFF                                 21,375,000.00                       0.00              21,375,000.00
+ 600820        8669     LOAN STRUCTURING FEE- MAX PLUS                     3,220,742.04                       0.00               3,220,742.04
+ 600823        8441     STRUCTURING FEE- SME INVOICE DISCOUNTING             145,104.72                       0.00                 145,104.72
+ 600826        8675     LOAN STRUCTURING- TIME LOAN                          145,000.00                       0.00                 145,000.00
+ 600837        8691     MGT FEE- INSURANCE PREMIUM LOAN                        1,163.75                       0.00                   1,163.75
+ 600838        8692     INSURANCE PREMIUM-SALES COMMISSION                     6,125.00                       0.00                   6,125.00
