@@ -16,12 +16,14 @@ const lineReader = async filepath => {
   };
 };
 
-// lineReader('./companies.txt', (err, value) => {
-//     if (err) {
-//         throw new error
-//     } else {
-//         console.log(value)
-//     }
-// })
+let filepath = "./companies.txt";
 
-export { lineReader };
+lineReader(filepath)
+  .then(fileContent => {
+    console.log(fileContent.lines);
+  })
+  .catch(err => {
+    console.log(err);
+  });
+
+// export { lineReader };
