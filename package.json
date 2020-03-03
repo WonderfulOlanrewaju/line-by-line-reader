@@ -1,6 +1,6 @@
 {
   "name": "line-by-line-reader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A promise based javascript package for reading contents of a file in a line by line fashion",
   "main": "index.js",
   "author": "Olanrewaju A. Olaboye",
@@ -8,5 +8,15 @@
   "private": false,
   "devDependencies": {
     "mocha": "^7.0.1"
+  },
+  "keywords": [
+    "file",
+    "file reader",
+    "line",
+    "line by line"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WonderfulOlanrewaju/line-by-line-reader"
   }
 }
