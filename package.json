@@ -11,9 +11,10 @@
   },
   "keywords": [
     "file",
-    "file reader",
+    "reader",
     "line",
-    "line by line"
+    "line by line",
+    "scanner"
   ],
   "repository": {
     "type": "git",
